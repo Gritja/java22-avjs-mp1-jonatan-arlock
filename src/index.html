@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+
+    <!-- Länka till huvudfilen och ange att det är en modul -->
+    <script type='module' src="./js/main.js"></script>
+    <title>RoPaSci</title>
+</head>
+<body>
+    <input type="text" id="playernameinput" name="" placeholder="Input player name here!">
+    <button id="rockBtn">Rock!</button>
+    <button id="paperBtn">Paper!</button>
+    <button id="scissorsBtn">Scissors!</button>
+      <br>
+      <p id="theplayername"></p> | 
+    <p id="computername">Computer :</p><br>
+    <p id="result"></p>
+      <hr>
+    <h5>Highscores :</h5>
+    <p id="pscore">0</p> | <p id="cscore">0</p><br>
+    <div id="highscoretable"></div>
+    <table id="highscores">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Depth</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,58 @@
+body {
+    font-family: monospace;
+    font-size: 18px;
+    color: grey;
+    background-color: #eee;
+    border: 2px dotted black;
+    height: 100%;
+  }
+  
+  #rockbutton {
+    font-family: cursive;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(125, 114, 230);
+    color: rgb(46, 38, 38);
+  }
+  
+  #paperbutton {
+    font-family: cursive;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(111, 236, 106);
+    color: rgb(43, 37, 37);
+  }
+
+  #scissorsbutton {
+    font-family: cursive;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(230, 108, 108);
+    color: rgb(34, 28, 28);
+  }
+  input {
+    font-family: cursive;
+    font-weight: 600;
+    height: 35px;
+    width: 200px;
+  }
+  
+  #result {
+    color: green;
+  }
+  
+  #computername {
+    color: #500;
+  }
+  
+  #theplayername {
+    color: #500;
+  }
+  
+  #theplayername, #computername, #result {
+   font-weight :600;
+  }
+
+p{
+display : inline-block;
+}
