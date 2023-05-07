@@ -51,6 +51,7 @@ if (choice1 == choice2){
     } else {
     	putHighscore(playerName, playerScore);
         playerScore = 0;
+        getHighscore();
         return "paper beats rock. " + playerName + " loses!";
     }
 } else if (choice1 == "paper") {
@@ -60,6 +61,7 @@ if (choice1 == choice2){
     } else {
         putHighscore(playerName, playerScore);
         playerScore = 0;
+        getHighscore();
     	return "scissors beats paper. " + playerName + " loses!";
     }
 } else if (choice1 == "scissors") {
@@ -69,6 +71,7 @@ if (choice1 == choice2){
     } else {
         putHighscore(playerName, playerScore);
         playerScore = 0;
+        getHighscore();
     	return "rock beats paper. " + playerName + " loses!"; 
     }
 }
