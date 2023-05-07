@@ -32,7 +32,6 @@ function RoPaSci(clickedChoice){
     } else {computerChoice = "scissors";} 
     document.getElementById('computername').innerHTML = "Computer: " + computerChoice;
 
-
     document.getElementById('result').innerHTML = compare(userChoice,computerChoice);
     document.getElementById('pscore').innerHTML = playerName + "'s current score: " + playerScore;
 

@@ -9,6 +9,7 @@ data = await res.json();
 if(Array.isArray(data)) {
 fillScoreTable(highscoreTable, data);
 }
+}
 
 function fillScoreTable(nodeList, values) { // nl -> NodeList, data -> array with objects
   //remove all entries in table
@@ -24,12 +25,11 @@ function fillScoreTable(nodeList, values) { // nl -> NodeList, data -> array wit
     console.log('highscores updated!')
   }
 
-}
-
 async function putHighscore(playerName, playerScore) {
   console.log(data);
     const newHighscore = updateHighscore(playerName, playerScore)
-    console.log(newHighscore);
+    fillScoreTable(highscoreTable, newHighscore)
+    //console.log(newHighscore);
     fetch('https://ropasci-54fd5-default-rtdb.europe-west1.firebasedatabase.app/highscore.json', {
       method: "PUT",
       body: JSON.stringify(newHighscore),
