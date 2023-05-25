@@ -1,4 +1,4 @@
-12326
+12332
 120C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\protobufjs-cli\node_modules\semver\functions\neq.js133264048677084881 0
 100C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\fast-glob\out\providers\sync.js121436361000000000 0
 80C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\buffer-from133258683723185511 1
@@ -23,8 +23,17 @@
 87C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\lodash\fp\chain.js133264048710851050 0
 99C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\merge-descriptors\package.json133264048659208749 0
 67C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\src\modules133258683135651443 1
-66C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\index.html133283584907344860 0
+66C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\index.html133283586034730252 0
 93C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\underscore\amd\negate.js133264048709936751 0
+105C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\retry-request\node_modules\debug\src133278820461413433 1
+90C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\codeframe\src133258683689501459 1
+92C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@types\node\crypto.d.ts133264048672268088 0
+85C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\lodash\object.js133264048718403880 0
+88C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\arrify\package.json133258708513471634 0
+114C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\meow\node_modules\type-fest\source\merge.d.ts121436361000000000 0
+106C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\yargs\build\lib\utils\which-module.js133264048672397962 0
+93C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\packager-css\src133258683674527973 1
+60C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\docs133294928852510101 1
 70C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\.gitattributes133278835216412880 0
 103C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\optimizer-htmlnano\LICENSE121436361000000000 0
 95C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\yargs\helpers\package.json133264048679069141 0
@@ -41,7 +50,7 @@
 95C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\lodash\_baseAssignValue.js133264048674076241 0
 90C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\uc.micro\categories\P133278820485741211 1
 99C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\escape-string-regexp\readme.md131005306320000000 0
-68C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\package.json133283585545553510 0
+68C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\package.json133294928797001731 0
 75C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\cookie133278820234673791 1
 128C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\normalize-package-data\node_modules\semver\functions\lte.js121436361000000000 0
 83C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\posthtml\types133258683681623252 1
@@ -1514,10 +1523,6 @@
 79C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\picocolors133258683727261876 1
 74C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\p-map133258684038922730 1
 102C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\xmlcreate\lib\nodes\XmlElement.js133264048671738631 0
-107C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\yaml\browser\dist\warnings-df54cb69.js121436361000000000 0
-87C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\has-symbols\.nycrc133264048638911025 0
-81C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\jwa\index.js133264048639080853 0
-90C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\underscore\amd\now.js133264048710086596 0
 100C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\underscore\amd\_isBufferLike.js133264048684926281 0
 82C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\parent-module133258683727431711 1
 82C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\yaml\index.js121436361000000000 0
@@ -2079,13 +2084,6 @@
 104C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\yargs\build\lib\utils\obj-filter.js133264048668383791 0
 119C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\protobufjs-cli\node_modules\semver\functions\eq.js133264048669902309 0
 106C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\yargs\build\lib\utils\set-blocking.js133264048670242661 0
-105C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\retry-request\node_modules\debug\src133278820461413433 1
-90C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\codeframe\src133258683689501459 1
-92C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@types\node\crypto.d.ts133264048672268088 0
-85C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\lodash\object.js133264048718403880 0
-88C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\arrify\package.json133258708513471634 0
-114C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\meow\node_modules\type-fest\source\merge.d.ts121436361000000000 0
-106C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\yargs\build\lib\utils\which-module.js133264048672397962 0
 104C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\underscore\modules\_toBufferView.js133264048689284953 0
 104C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\msgpackr\dist\index-no-eval.cjs.map121436361000000000 0
 87C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\json5\package.json133258708170900576 0
@@ -2195,6 +2193,10 @@
 95C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\yaml\browser\dist\types.js121436361000000000 0
 96C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\underscore\modules\isNaN.js133264048705345213 0
 107C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\google-gax\build\src\iamService.js.map133264048691659209 0
+107C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\yaml\browser\dist\warnings-df54cb69.js121436361000000000 0
+87C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\has-symbols\.nycrc133264048638911025 0
+81C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\jwa\index.js133264048639080853 0
+90C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\underscore\amd\now.js133264048710086596 0
 87C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\wrap-ansi\index.js133264048638591355 0
 88C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\yallist\iterator.js121436361000000000 0
 112C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\firebase-admin\lib\auth\project-config.d.ts133264048703345588 0
@@ -3286,10 +3288,10 @@
 90C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\underscore\cjs\max.js133264048709367328 0
 83C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\type-fest\ts41133258683682962027 1
 90C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\trim-newlines\license121436361000000000 0
-95C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\lodash\fp\extendAllWith.js133264048714327720 0
-94C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\underscore\cjs\memoize.js133264048709507186 0
 87C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\lodash\fp\hasIn.js133264048716006166 0
 91C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\lodash\_copySymbols.js133264048695705739 0
+94C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\underscore\cjs\memoize.js133264048709507186 0
+95C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\lodash\fp\extendAllWith.js133264048714327720 0
 93C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\underscore\cjs\negate.js133264048709956728 0
 98C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\terser\lib\compress\common.js121436361000000000 0
 83C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\type-check\lib133278820483461093 1
@@ -4287,7 +4289,6 @@
 99C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\source-map\lib\mapping-list.js131369414910000000 0
 83C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\fs\lib133258683680864031 1
 127C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\protobufjs-cli\node_modules\semver\functions\prerelease.js133264048678759458 0
-107C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\caniuse-lite\data\features\jpeg2000.js121436361000000000 0
 108C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\runtime-js\src\helpers\.babelrc121436361000000000 0
 117C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\caniuse-lite\data\features\speech-recognition.js121436361000000000 0
 106C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\source-map\lib\source-map-consumer.js131511695460000000 0
@@ -4727,6 +4728,7 @@
 100C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\utils\src\countLines.js121436361000000000 0
 125C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\read-pkg\node_modules\type-fest\source\package-json.d.ts121436361000000000 0
 123C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\read-pkg\node_modules\type-fest\source\promisable.d.ts121436361000000000 0
+71C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\docs\index.html133294928852440176 0
 133C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\read-pkg\node_modules\type-fest\source\require-at-least-one.d.ts121436361000000000 0
 131C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\normalize-package-data\node_modules\semver\functions\coerce.js121436361000000000 0
 132C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\read-pkg\node_modules\type-fest\source\require-exactly-one.d.ts121436361000000000 0
@@ -7827,6 +7829,7 @@
 106C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\jose\dist\node\esm\runtime\pbes2kw.js133264048701156642 0
 108C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\firebase-functions\lib\common\utilities133278820282520260 1
 116C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\jose\dist\node\esm\runtime\timing_safe_equal.js133264048705894972 0
+83C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\docs\index.1b87dccf.css.map133294928852510101 0
 84C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\is-glob\LICENSE121436361000000000 0
 103C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\jose\dist\node\esm\runtime\zlib.js133264048707628654 0
 120C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@grpc\grpc-js\build\src\subchannel-interface.js.map133264048702205765 0
@@ -9063,6 +9066,7 @@
 95C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\fast-levenshtein\README.md133264048659168791 0
 92C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\fast-glob\out\providers133258684026560435 1
 97C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\fast-glob\out\utils\array.js121436361000000000 0
+79C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\docs\index.1b87dccf.css133294928852440176 0
 96C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\fast-glob\out\utils\fs.d.ts121436361000000000 0
 94C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\fast-glob\out\utils\fs.js121436361000000000 0
 97C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\abort-controller\browser.mjs133264048642188127 0
@@ -9847,6 +9851,7 @@
 119C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\caniuse-lite\data\features\intersectionobserver.js121436361000000000 0
 135C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias133258683699210837 1
 115C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\caniuse-lite\data\features\intl-pluralrules.js121436361000000000 0
+107C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\caniuse-lite\data\features\jpeg2000.js121436361000000000 0
 105C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\caniuse-lite\data\features\jpegxl.js121436361000000000 0
 98C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@types\markdown-it\index.d.ts133264048641753496 0
 105C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\caniuse-lite\data\features\jpegxr.js121436361000000000 0
@@ -11046,7 +11051,6 @@
 103C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\packager-html\package.json133258708168657777 0
 94C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\packager-html\src133258683674348159 1
 110C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\packager-html\src\HTMLPackager.js121436361000000000 0
-93C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\packager-css\src133258683674527973 1
 108C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\packager-css\lib\CSSPackager.js121436361000000000 0
 103C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\package-manager\index.d.ts121436361000000000 0
 96C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@parcel\package-manager\lib133258683691981107 1
@@ -11499,8 +11503,10 @@
 163C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@jridgewell\trace-mapping\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.umd.js121436361000000000 0
 167C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@jridgewell\trace-mapping\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.umd.js.map121436361000000000 0
 167C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@jridgewell\trace-mapping\node_modules\@jridgewell\sourcemap-codec\dist\types\sourcemap-codec.d.ts121436361000000000 0
+78C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\docs\index.fa086e3f.js133294928852440176 0
 101C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@grpc\grpc-js\src\generated\grpc133278820093946693 1
 117C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs121436361000000000 0
+82C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\docs\index.fa086e3f.js.map133294928852500115 0
 121C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs.map121436361000000000 0
 120C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js121436361000000000 0
 124C:\Users\astro\Documents\java22-avjs-mp1-jonatan-arlock\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js.map121436361000000000 0
